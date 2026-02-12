@@ -20,5 +20,7 @@ This notebook demonstrates a simple supervised learning pipeline using linear re
 
 # How to run
 1.Open the notebook in Kaggle or a compatible Jupyter environment.
+
 2.​Ensure the Salary_Data.csv file is accessible at the specified path or update the path accordingly.
+
 3.​Run cells sequentially from top to bottom to import libraries, load data, split datasets, and train the model.
