@@ -24,3 +24,10 @@ This notebook demonstrates a simple supervised learning pipeline using linear re
 2.​Ensure the Salary_Data.csv file is accessible at the specified path or update the path accordingly.
 
 3.​Run cells sequentially from top to bottom to import libraries, load data, split datasets, and train the model.
+
+# ✨ Author
+Sakshi Pandey
+
+📧 sakshi.pandey0511@gmail.com
+
+💻 sakshi.pandey0511
